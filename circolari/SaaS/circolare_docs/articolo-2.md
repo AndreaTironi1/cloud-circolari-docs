@@ -50,4 +50,4 @@ A supporto del processo di qualificazione è previsto l’utilizzo di una
 piattaforma AgID dedicata ed integrata con il Marketplace Cloud. 
 Tale piattaforma consentirà, tra l’altro, l’accesso tramite
 SPID e la trasmissione telematica dei documenti ai sensi degli art. 45 e 65
-comma 1/b del CAD secondo le modalità operative che saranno pubblicate sul sito https://cloud.italia.it.
+comma 1/b del CAD secondo le modalità operative che saranno pubblicate sul sito [https://cloud.italia.it](https://cloud.italia.it).
